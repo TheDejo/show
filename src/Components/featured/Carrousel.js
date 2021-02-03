@@ -1,9 +1,9 @@
 import React from 'react';
 import Slider from "react-slick";
 
-import paul1 from '../../resources/images/paul1.jpg';
-import paul2 from '../../resources/images/paul2.jpg';
-import paul3 from '../../resources/images/paul3.jpg';
+import paul1 from '../../resources/images/paul1.jfif';
+import paul2 from '../../resources/images/paul2.jfif';
+import paul3 from '../../resources/images/paul3.jfif';
 
 const Carrousel = () => {
   const settings ={

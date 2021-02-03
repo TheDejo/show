@@ -84,8 +84,9 @@ footer .footer_copyright {
 
 .carrousel_image {
     
-    background-size: contain !important;
-    
+    background-size: cover;
+    background-repeat: repeat;
+
     
 }
 
